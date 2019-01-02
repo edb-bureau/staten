@@ -1,1 +1,3 @@
 # CONTRIBUTING
+
+https://opensource.guide/

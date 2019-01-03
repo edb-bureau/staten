@@ -15,3 +15,6 @@ A policy platform covering all the important issues.
 ### How
  
 National currency built on a blockchain with strong individual privacy rights. Having every transaction stored on a blockchain will open up for implementing policies based on algorithms. 
+
+## Resources
+https://wiki.hyperledger.org/groups/public-sector-sig

@@ -32,5 +32,10 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/Direct_democracy#Demo
 - Equality
   - Votes can be weighted based on how the proposed policy will impact affected individuals.
 
+#### Security and the protection of privacy
+
+Description from [wikipedia](https://en.wikipedia.org/wiki/E-democracy#Security_and_the_protection_of_privacy):
+> The government must be in a position to guarantee that online communications are secure and that they do not violate people's privacy. This is especially important when considering electronic voting. An electoral voting system is more complex than other electronic transaction systems and the authentication mechanisms employed must be able to prevent ballot rigging or the threat of rigging. This may include the use of smart cards that allow a voter's identity to be verified whilst at the same time ensuring the privacy of the vote cast. Electronic voting in Estonia is one example of a method to conquer the privacy-identity problem inherent in internet voting systems. However, the objective should be to provide equivalence with the security and privacy of current manual systems. 
+
 ## Resources
 https://wiki.hyperledger.org/groups/public-sector-sig

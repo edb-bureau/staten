@@ -47,3 +47,5 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/E-democracy#Governmen
 - https://wiki.hyperledger.org/groups/public-sector-sig
 - https://voteflux.org/dashboard/
 - https://direktdemokraterna.se/
+- https://liquidfeedback.org/
+- https://www.democracy.earth/

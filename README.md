@@ -26,7 +26,7 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/Direct_democracy#Demo
 > Democratic theorists have identified a trilemma due to the presence of three desirable characteristics of an ideal system of direct democracy, which are challenging to deliver all at once. These three characteristics are participation – widespread participation in the decision making process by the people affected; deliberation – a rational discussion where all major points of view are weighted according to evidence; and equality – all members of the population on whose behalf decisions are taken have an equal chance of having their views taken into account. Empirical evidence from dozens of studies suggests deliberation leads to better decision making.The most popularly disputed form of direct popular participation is the referendum on constitutional matters.
 
 - Participation
-  - Delegate your voting power to special interest groups. Individual votes supercede group votes. Votes can be withdrawn(retroactive?).
+  - [Delegative democracy](https://en.wikipedia.org/wiki/Delegative_democracy) allows for vesting voting power in delegates, and lies between direct democracy and representative democracy.
 - Deliberation
   - Policies implemented as algorithms can be worked on and improved indefinitely like any open source project. 
 - Equality

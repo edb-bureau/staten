@@ -44,8 +44,13 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/E-democracy#Governmen
 > In order to ensure that issues are debated in a democratic, inclusive, tolerant and productive way, the role that intermediaries and representative organizations may play should be considered. In order to strengthen the effectiveness of the existing legal rights of access to information held by public authorities, citizens should have the right to effective public deliberation and moderation.
 
 ## Resources
-- https://wiki.hyperledger.org/groups/public-sector-sig
-- https://voteflux.org/dashboard/
-- https://direktdemokraterna.se/
-- https://liquidfeedback.org/
-- https://www.democracy.earth/
+
+- Blockchain
+ - https://wiki.hyperledger.org/groups/public-sector-sig
+- Open source governance
+ - https://voteflux.org/dashboard/
+ - https://direktdemokraterna.se/
+ - https://liquidfeedback.org/
+ - https://www.democracy.earth/
+- Modern monetary theory
+ - http://neweconomicperspectives.org/modern-monetary-theory-primer.html

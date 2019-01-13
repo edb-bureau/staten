@@ -46,11 +46,11 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/E-democracy#Governmen
 ## Resources
 
 - Blockchain
- - https://wiki.hyperledger.org/groups/public-sector-sig
+   - https://wiki.hyperledger.org/groups/public-sector-sig
 - Open source governance
- - https://voteflux.org/dashboard/
- - https://direktdemokraterna.se/
- - https://liquidfeedback.org/
- - https://www.democracy.earth/
+   - https://voteflux.org/dashboard/
+   - https://direktdemokraterna.se/
+   - https://liquidfeedback.org/
+   - https://www.democracy.earth/
 - Modern monetary theory
- - http://neweconomicperspectives.org/modern-monetary-theory-primer.html
+   - http://neweconomicperspectives.org/modern-monetary-theory-primer.html

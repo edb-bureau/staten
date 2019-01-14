@@ -3,6 +3,8 @@
 
 Leveraging the principles of open source and modern technologies to create a platform for a digital state. 
 
+This project is currently a collection of concepts gathered with the intention to create a roadmap. It's early days!
+
 ## Vision
 
 A policy platform covering all the important issues.
@@ -11,6 +13,8 @@ A policy platform covering all the important issues.
  - Social policies ensuring reduced inequality and guaranteed living wage.
  - Health policy covering all procedures with no cost to the patient. Strong mental health policies.
  - Ambitious environmental policy.
+ 
+All policies implemented as algorithms. All data owned by users. Aggregate data used for statistics.
 
 ### How
  

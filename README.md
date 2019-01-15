@@ -3,7 +3,7 @@
 
 Leveraging the principles of open source and modern technologies to create a platform for a digital state. 
 
-This project is currently a collection of concepts gathered with the intention to create a roadmap. It's early days!
+This project is currently a personal collection of concepts gathered with the intention to create a roadmap to expand on. It's early days!
 
 ## Vision
 

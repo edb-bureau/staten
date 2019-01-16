@@ -14,7 +14,7 @@ A policy platform covering all the important issues.
  - Health policy covering all procedures with no cost to the patient. Strong mental health policies.
  - Ambitious environmental policy.
  
-All policies implemented as algorithms. All data owned by users. Aggregate data used for statistics.
+All policies implemented as [algorithms](https://en.wikipedia.org/wiki/Algorithmic_regulation). All data owned by users. Aggregate data used for statistics.
 
 ### How
  

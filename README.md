@@ -7,14 +7,7 @@ This project is currently a personal collection of concepts gathered with the in
 
 ## Vision
 
-A policy platform covering all the important issues.
- 
- - Economic policies based on *Modern Monetary Theory*.
- - Social policies ensuring reduced inequality and guaranteed living wage.
- - Health policy covering all procedures with no cost to the patient. Strong mental health policies.
- - Ambitious environmental policy.
- 
-All policies implemented as [algorithms](https://en.wikipedia.org/wiki/Algorithmic_regulation). All data owned by users. Aggregate data published. State as a "black box".
+A policy platform covering all the important issues. Economic policies based on *Modern Monetary Theory*. All policies implemented as [algorithms](https://en.wikipedia.org/wiki/Algorithmic_regulation). All data owned by users. Aggregate data published. State as a "black box".
 
 ### How
  

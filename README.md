@@ -42,6 +42,12 @@ Description from [wikipedia](https://en.wikipedia.org/wiki/E-democracy#Governmen
 > In order to attract people to get involved in online consultations and discussions, the government must respond to people and actively demonstrate that there is a relationship between the citizen's engagement and policy outcome. It is also important that people are able to become involved in the process, at a time and place that is convenient to them but when their opinions will count. The government will need to ensure that the structures are in place to deal with increased participation.
 > In order to ensure that issues are debated in a democratic, inclusive, tolerant and productive way, the role that intermediaries and representative organizations may play should be considered. In order to strengthen the effectiveness of the existing legal rights of access to information held by public authorities, citizens should have the right to effective public deliberation and moderation.
 
+#### Business logic on blockchain
+
+How do you get the private sector to adopt this? Reduced tax rate for compliance?
+
+#### Black box
+
 ## Next steps?
 
 - Project website

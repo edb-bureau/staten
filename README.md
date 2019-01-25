@@ -13,7 +13,7 @@ It's probably a good idea to leave politics and ideologies out of this project. 
 
 ### How
  
-National currency built on a blockchain with strong individual privacy rights. Having every transaction stored on a blockchain will open up for implementing policies based on algorithms.
+National currency built on a blockchain with strong individual privacy rights. Every physical object modelled with relevant properties. Having every transaction stored on a blockchain will open up for implementing policies based on algorithms.
 
 Before that the project needs to gain traction and momentum. This can be done through several stages. I believe the focus should be on gaining contributors in the beginning before appealing to voters leading up to a national election. 
 

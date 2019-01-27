@@ -50,6 +50,10 @@ How do you get the private sector to adopt this? Reduced tax rate for compliance
 
 ## Next steps?
 
+- Graphical representation of concepts
+  - Transaction
+  - Vote
+  - Black box
 - Sandbox for developing and testing ideas
 - Project website
   - Github pages

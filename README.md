@@ -55,6 +55,7 @@ How do you get the private sector to adopt this? Reduced tax rate for compliance
   - Vote
   - Black box
 - Sandbox for developing and testing ideas
+  - Job guarantee
 - Project website
   - Github pages
   - Gatsbyjs?

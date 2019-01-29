@@ -48,6 +48,8 @@ How do you get the private sector to adopt this? Reduced tax rate for compliance
 
 #### Black box
 
+#### Anonymous voting?
+
 ## Next steps?
 
 - Graphical representation of concepts

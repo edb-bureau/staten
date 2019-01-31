@@ -52,10 +52,6 @@ How do you get the private sector to adopt this? Reduced tax rate for compliance
 
 ## Next steps?
 
-- Graphical representation of concepts
-  - Transaction
-  - Vote
-  - Black box
 - Sandbox for developing and testing ideas
   - Job guarantee
 - Project website
@@ -63,6 +59,12 @@ How do you get the private sector to adopt this? Reduced tax rate for compliance
   - Gatsbyjs?
   - Playbook/style guide for policy platform
 - Wiki
+  - Challenges
+  - Resources
+  - Graphical representation of concepts
+    - Transaction
+    - Vote
+    - Black box
 
 ## Resources
 

@@ -21,6 +21,8 @@ Before that the project needs to gain traction and momentum. This can be done th
 
 - Sandbox for developing and testing ideas
   - Job guarantee
+  - Universal health coverage
+  - Universal free education
 - Project website
   - Github pages
   - Gatsbyjs?

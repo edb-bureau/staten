@@ -28,8 +28,8 @@ Before that the project needs to gain traction and momentum. This can be done th
   - Gatsbyjs?
   - Playbook/style guide for policy platform
 - Wiki
-  - Challenges
-  - Resources
+  - ~~Challenges~~
+  - ~~Resources~~
   - Graphical representation of concepts
     - Transaction
     - Vote

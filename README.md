@@ -16,22 +16,3 @@ It's probably a good idea to leave politics and ideologies out of this project. 
 National currency built on a blockchain with strong individual privacy rights. Every physical object modelled with relevant properties. Having every transaction stored on a blockchain will open up for implementing policies based on algorithms.
 
 Before that the project needs to gain traction and momentum. This can be done through several stages. I believe the focus should be on attracting collaborators on this project, while encouraging attempts at actually implementing the platform by independent projects in whatever country where they may be.
-
-## Next steps?
-
-- Sandbox for developing and testing ideas
-  - Job guarantee
-  - Universal health coverage
-  - Universal free education
-- Project website
-  - Github pages
-  - Gatsbyjs?
-  - Playbook/style guide for policy platform
-- [Wiki](https://github.com/rattlegray/staten/wiki)
-  - ~~Challenges~~
-  - ~~Resources~~
-  - Graphical representation of concepts
-    - Transaction
-    - Vote
-    - Black box
-- Project board

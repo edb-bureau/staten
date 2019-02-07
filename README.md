@@ -27,10 +27,11 @@ Before that the project needs to gain traction and momentum. This can be done th
   - Github pages
   - Gatsbyjs?
   - Playbook/style guide for policy platform
-- Wiki
+- [Wiki](https://github.com/rattlegray/staten/wiki)
   - ~~Challenges~~
   - ~~Resources~~
   - Graphical representation of concepts
     - Transaction
     - Vote
     - Black box
+- Project board

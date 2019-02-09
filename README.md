@@ -7,7 +7,7 @@ This project is currently a personal collection of concepts gathered with the in
 
 ## Vision
 
-A platform for developing policies implemented as [algorithms](https://en.wikipedia.org/wiki/Algorithmic_regulation). All data owned by users. Business logic and transactions recorded with three-way encryption(?) on ledger. Anonymised or aggregate data recorded on open ledger. State as a "black box". Economic policies based on *Modern Monetary Theory*. Test driven.
+A platform for developing policies implemented as [algorithms](https://en.wikipedia.org/wiki/Algorithmic_regulation). All data owned by users. State services accessed through citizen portal. Business logic and transactions recorded with three-way encryption(?) on ledger. Anonymised or aggregate data recorded on open ledger. State as a "black box". Economic policies based on *Modern Monetary Theory*. Test driven.
 
 It's probably a good idea to leave politics and ideologies out of this project. Implementing a digital state should increase participation, deliberation and equality. Once implemented, by a political party, policies can be developed and voted on.
 
